@@ -1,4 +1,0 @@
-<p>The Great Gatsby</p><p>1984</p><p>To Kill a Mockingbird</p><p>Lolita</p><p>Jane Eyre</p><p>Brave New World</p><p>Wuthering Heights</p><p>Animal Farm</p><p>Les Misérables</p><p>Sense and Sensibility</p><p>Anna Karenina</p><p>Dracula</p><p>Madame Bovary</p><p>The Picture of Dorian Gray</p><p>A Tale of Two Cities</p><p>Frankenstein</p><p>Hamlet</p><p>The Catcher in the Rye</p><p>The Hobbit</p><p>Crime and Punishment</p><p>Great Expectations</p><p>The Adventures of Huckleberry Finn</p><p>The Lord of the Rings</p><form action="search.php" method="get">
-    <input type="text" name="search" placeholder="Search for books...">
-    <input type="submit" value="Search">
-</form>
